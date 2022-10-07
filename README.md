@@ -5,7 +5,7 @@
 <h3>My public Projects:</h3>
 <ul>
   <li><h4>HTMLSV</h4></li>
-  <li><h4>HTMLS(TBA)</h4></li>
+  <li><h4>HTMLS</h4></li>
 </ul>
 
 <!---
